@@ -1,4 +1,5 @@
 # Oscilloscope using Arduino and Processing
+(English version)
 
 ### Description
 
